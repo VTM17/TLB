@@ -30,7 +30,11 @@ h2,h3,h4,.title{font-weight:normal;letter-spacing:-.3px;font-size:25px;line-heig
 .TitleDiv{border-top:2px solid #EEE;width:70px;margin:5px 0 8px 0}
 .menu a{color:#404040;padding:10px 0 16px 20px;font-size:23px;display:block}
 .navi .menu{z-index:8;position: absolute;right:0;top:0;height:100%;transition:all 0.2s cubic-bezier(0.25, 0.94, 0.45, 0.46)}.navi input#toggle + label{position:absolute;cursor:pointer;z-index:7}input#toggle:checked ~ .menu{right:-700px}input{display:none}
-.SMShare{position:fixed;bottom:0;height:45px;text-align:center;width:100%;}.SMShare div{display:inline-block;width:33.33333%;height:45px}
+.SMShare{position:fixed;bottom:0;height:45px;text-align:center;width:100%;}.SMShare div{display:inline-block;width:33.33333%;height:45px}.max{max-width:1200px;margin:auto!important}
+@media(min-width:1200px){.left{display:inline-block}.right{width:340px;display:inline-block}}
+@media(max-width:1199px){.left{margin:auto!important}}
+@media(min-width:934px) and (max-width:1199px){.SMShare{position:fixed;top:51px;text-align:center;width:58px;}.SMShare div{display:block;width:58px;height:58px}.SMShareBox{width:934px;margin:auto}}
+@media(min-width:600px) and (max-width:933px){.SMShare{padding:0 10%}}@media(min-width:600px){.hide-ML{display:none!important}}	
 </style>
 </head>
 <body>
@@ -46,7 +50,7 @@ h2,h3,h4,.title{font-weight:normal;letter-spacing:-.3px;font-size:25px;line-heig
 </div>
 
 <div class="SMShareBox"><div class="SMShare" style="z-index:5"><div style="background:#3b5998"><img src="../../images/facebook.png" style="width:23px;padding:8px 0 25px 0"></div><div style="background:#1da1f2"><img src="../../images/twitter.png" style="width:30px;padding:5px 0 21px 0"></div><div style="background:#db4437"><img src="../../images/gplus.png" style="width:27px;padding:13px 0 26px 0"></div></div></div>
-
+<div class="max">
 <div class="left" style="max-width:860px">
 <img src="../../images/sample.png" alt="How to Franchise McDonald's in the Philippines" style="width:100%">
 <main>
@@ -154,13 +158,8 @@ h2,h3,h4,.title{font-weight:normal;letter-spacing:-.3px;font-size:25px;line-heig
 
 <div class="right" style="padding:0 20px">
 
-</div>
-<style type="text/css">
-@media(min-width:1200px){.left{display:inline-block}.right{width:340px;display:inline-block}}
-@media(max-width:1199px){.left{margin:auto!important}}
-@media(min-width:934px) and (max-width:1199px){.SMShare{position:fixed;top:51px;text-align:center;width:58px;}.SMShare div{display:block;width:58px;height:58px}.SMShareBox{width:934px;margin:auto}}
-@media(min-width:600px) and (max-width:933px){.SMShare{padding:0 10%}}@media(min-width:600px){.hide-ML{display:none!important}}
-</style>
+</div></div>
+
 <script type=application/ld+json>{
  "@context": "http://schema.org",
  "@type": "WPHeader",
