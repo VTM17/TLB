@@ -6,6 +6,7 @@
 /lottery/swertres
   Link: </css/taglish.css>; rel=preload; as=style
   Link: </fonts/poppins-v1-latin-600.woff>; rel=preload; as=font
+  Link: </fonts/nunito-regular.woff>; rel=preload; as=font
   Cache-Control: private,max-age=0
   
 /*
