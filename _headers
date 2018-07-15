@@ -1,10 +1,11 @@
-/server-push-path
-  Link: </taglish.css>; rel=preload; as=style
-  Link: </poppins-v1-latin-600.woff>; rel=preload; as=font
+/
+  Link: </css/taglish.css>; rel=preload; as=style
+  Link: </fonts/poppins-v1-latin-600.woff>; rel=preload; as=font
+  Cache-Control: private,max-age=0
   
 /lottery/
-  Link: </taglish.css>; rel=preload; as=style
-  Link: </poppins-v1-latin-600.woff>; rel=preload; as=font
+  Link: </css/taglish.css>; rel=preload; as=style
+  Link: </fonts/poppins-v1-latin-600.woff>; rel=preload; as=font
   Cache-Control: private,max-age=0
   
 /*.css
