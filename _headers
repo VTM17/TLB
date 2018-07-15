@@ -15,3 +15,9 @@
   
 /*.css
   Cache-Control: max-age=31536000, public
+  
+/images/*.jpg
+  Cache-Control: max-age=31536000, public
+  
+/images/*.png
+  Cache-Control: max-age=31536000, public
