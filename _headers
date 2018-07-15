@@ -1,8 +1,4 @@
-/
-  Link: </css/TagLish.css>; rel=preload; as=style
-  Link: </fonts/poppins-v1-latin-600.woff>; rel=preload; as=font
-  Cache-Control: private,max-age=0
-  
+
 /lottery/swertres
   Link: </css/TagLish.css>; rel=preload; as=style
   Link: </fonts/poppins-v1-latin-600.woff>; rel=preload; as=font
