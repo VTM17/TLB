@@ -2,3 +2,8 @@
   Link: </taglish.css>; rel=preload; as=style
   Link: </nunito-regular.woff>; rel=preload; as=font
   Link: </poppins-v1-latin-600.woff>; rel=preload; as=font
+  
+   /lottery/swertres
+  Link: </taglish.css>; rel=preload; as=style
+  Link: </nunito-regular.woff>; rel=preload; as=font
+  Link: </poppins-v1-latin-600.woff>; rel=preload; as=font
