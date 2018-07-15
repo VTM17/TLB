@@ -13,7 +13,7 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   
-/*.css
+/css/*.css
   Cache-Control: max-age=31536000, public
   
 /images/*.jpg
