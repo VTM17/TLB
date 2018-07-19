@@ -1,8 +1,8 @@
 
 /lottery/swertres
   Link: <https://www.taglish.ph/css/TagLish.css>; rel=preload; as=style
-  Link: <https://www.taglish.ph/fonts/title.woff>; rel=preload; as=font
-  Link: <https://www.taglish.ph/fonts/paragraph.woff>; rel=preload; as=font
+  Link: <https://www.taglish.ph/fonts/title.woff>; rel=preload; as=style
+  Link: <https://www.taglish.ph/fonts/paragraph.woff>; rel=preload; as=style
   Cache-Control: private,max-age=0
   
 /*
