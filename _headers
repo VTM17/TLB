@@ -1,7 +1,7 @@
 
 /lottery/swertres
-  Link: <https://www.taglish.ph/css/TagLish.css>; rel=preload; as=style
-  Link: <https://www.taglish.ph/fonts/title.woff>; rel=preload; as=font; crossorigin
+  Link: <https://taglish.netlify.com/css/TagLish.css>; rel=preload; as=style
+  Link: <https://taglish.netlify.com/fonts/title.woff>; rel=preload; as=font; crossorigin
   Cache-Control: private,max-age=0
   
 /*
