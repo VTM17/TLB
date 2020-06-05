@@ -1,7 +1,7 @@
 
 /lottery/swertres
-  Link: <https://taglish.netlify.com/css/TagLish.css>; rel=preload; as=style
-  Link: <https://taglish.netlify.com/fonts/title.woff>; rel=preload; as=font; crossorigin
+  Link: <https://taglish.netlify.app/css/TagLish.css>; rel=preload; as=style
+  Link: <https://taglish.netlify.app/fonts/title.woff>; rel=preload; as=font; crossorigin
   Cache-Control: private,max-age=0
   
 /*
